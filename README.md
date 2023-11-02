@@ -5,3 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shonsukee&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,ruby,rails,react,php&theme=light)](https://skillicons.dev)
