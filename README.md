@@ -7,5 +7,5 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ruby,rails,nextjs,react,java,docker,postman,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ruby,rails,nextjs,react,azure,docker,postman,vercel&theme=light)](https://skillicons.dev)
 
