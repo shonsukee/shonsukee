@@ -40,8 +40,8 @@
         <img src="https://komarev.com/ghpvc/?username=shonsukee" alt="shonsukee" />
     </a>
 <!-- AtCoder -->
-    <a href="https://atcoder.jp/users/KorRyu?contestType=algo">
-        <img src="https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social" alt="AtCoder Rating" />
+    <a href="https://atcoder.jp/users/shonsuke?contestType=algo">
+        <img src="https://badgen.org/img/atcoder/shonsuke/rating/algorithm?style=social" alt="AtCoder Rating" />
     </a>
 </div>
 
