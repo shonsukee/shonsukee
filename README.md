@@ -17,7 +17,7 @@
 
 <!-- ## Social 📱 -->
 
-### Stats 📊
+### 📊 Stats
 <!-- GitHub States -->
 <div align="left" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
