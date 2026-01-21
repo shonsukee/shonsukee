@@ -57,7 +57,7 @@
 
 ## Skills 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,react,ruby,rails,cpp,azure,vercel,postman,docker,redis,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nextjs,react,ruby,rails,cpp,azure,vercel,postman,docker,redis,&theme=light)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
