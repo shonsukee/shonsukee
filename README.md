@@ -17,8 +17,9 @@
 
 <!-- ## Social 📱 -->
 
-### 📊 Stats
 <!-- GitHub States -->
+<!--
+### 📊 Stats
 <div align="left" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="49.4%" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=shonsukee&show=prs_merged_percentage&theme=onedark" />
@@ -27,7 +28,7 @@
       <img width="44.0%" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shonsukee&layout=compact&theme=onedark&exclude_repo=Configuration-files,Web-Contest&count_private=true" alt="Top Langs" />
   </a>
 </div>
-
+-->
 <!-- GitHub Trophy -->
 <!-- <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
